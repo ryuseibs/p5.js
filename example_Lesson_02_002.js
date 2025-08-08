@@ -3,3 +3,7 @@ function setup() {
     text("こんにちは", 40, 30);
     text("hello", 40, 50);
 }
+
+function draw() {
+
+}
